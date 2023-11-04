@@ -1,4 +1,1 @@
-document.getElementById("app").innerHTML = 
-function names(){
-    return "Romer";
-}
+console.log(NaN ** 0);
