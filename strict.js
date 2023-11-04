@@ -21,7 +21,7 @@ console.log(sum(2, 5, 6));
 
 
 'use strict'; // if i will not use strict i will not get error if i use strict i get error of octal literals are not allowed
-const oct = 051;
+const oct = 0o51;
 console.log(oct);
 
 // in summary use strict is a tehcnique where u will know what is the error and set rules and error handling
