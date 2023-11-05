@@ -21,3 +21,7 @@ alert( 3 * NaN ); // NaN
 alert( "not a number" / 2 - 1 ); // NaN
 
 // So, if there’s a NaN somewhere in a mathematical expression, it propagates to the whole result (there’s only one exception to that: NaN ** 0 is 1).
+
+BigInt
+console.log(BigInt);
+console.log(9007199254740991 + 1);

@@ -1,1 +1,1 @@
-console.log(NaN ** 0);
+alert( 1n + 12n);
